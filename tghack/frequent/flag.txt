@@ -1,0 +1,1 @@
+FLAG = TG20{beginning_middle_end}

