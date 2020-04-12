@@ -1,5 +1,3 @@
-# ctf_writeups
-this is where you find my solutions for challenges I solved for some capture the flag competetions I participated in 
 
 # GAMMER
 the idea for this challenge was to brute force the flag charachter by charachter by checking with the output of the chall 
