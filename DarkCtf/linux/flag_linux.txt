@@ -1,0 +1,13 @@
+Last login: Sat Sep 26 20:27:42 2020 from 41.218.206.59
+wolfie@9ad161dbc9ce:~$ ls
+bin  flag.txt  imp
+wolfie@9ad161dbc9ce:~$ cat flag.txt
+flag{pizzachikengoodgoodgreatamazing}
+wolfie@9ad161dbc9ce:~$ file imp
+imp: directory
+wolfie@9ad161dbc9ce:~$ cd imp
+wolfie@9ad161dbc9ce:~/imp$ ls
+flag.txt
+wolfie@9ad161dbc9ce:~/imp$ cat flag.txt
+darkCTF{h0pe_y0u_used_intended_w4y}
+wolfie@9ad161dbc9ce:~/imp$
